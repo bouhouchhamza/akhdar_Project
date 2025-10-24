@@ -973,7 +973,25 @@ footer{
 }
 
 
-
+@keyframes myanime {
+    
+    0%{
+        background-color:  #D4F3CC;
+    }
+       
+    25%{
+        background-color:  #4ada26;
+    }   
+    50%{
+        background-color:  #D4F3CC;
+    }   
+    75%{
+        background-color:  #4ada26;
+    }   
+    100%{
+        background-color:  #D4F3CC;
+    }
+}
 
 
 
